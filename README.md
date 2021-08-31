@@ -1,6 +1,5 @@
 - Ilse Langnar official account
 - 👀 I'm creating the note-taking tool Ilse Langnar Notebook
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact me at Discord: Comming Soon
 
 <!---
